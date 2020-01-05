@@ -19,7 +19,7 @@ Repositorio con tutoriales de Python:
 
 9 - Módulos
 
-10 - Entrada estándar
+10 - Entrada por teclado
 
 11 - Ficheros
 
