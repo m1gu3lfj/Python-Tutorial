@@ -24,4 +24,3 @@ Repositorio con tutoriales de Python:
 11 - Ficheros
 
 12 - JSON
-
